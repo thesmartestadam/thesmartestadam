@@ -1,7 +1,7 @@
 ![header](./gitprofile.gif)
 # Welcome To My Profile
 
-* 💻 - Currently Working On : Personal Websites
+* 💻 - Currently Working On : Personal Projects
 * 💼 - Employed by : N/A
 
 # My TECH Stack
